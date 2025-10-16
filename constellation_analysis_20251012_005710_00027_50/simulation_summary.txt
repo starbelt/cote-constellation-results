@@ -1,0 +1,12 @@
+Simulation Configuration Statistics
+===================================
+
+Image Size: .027 MB
+Max Buffer: 100000 MB  
+Satellite Count: 50
+Total Steps: 0000000000000021600
+Time Step: 1.000s
+Total Duration: 6.00h (21600.000s)
+Strategies: 4 (close-spaced, close-orbit-spaced, frame-spaced, orbit-spaced)
+Policies: 4 (sticky, fifo, roundrobin, random)
+Total Combinations: 16
